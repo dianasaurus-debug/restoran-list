@@ -1,4 +1,3 @@
-# kos_dea
 
 A new Flutter application.
 
